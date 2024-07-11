@@ -94,3 +94,14 @@ button{
 button:hover{
     background-color: var(--cor5);
 }
+
+@media (max-width: 800px) {
+    li,a,button{
+        font-size: 8px;
+    }
+    .logotipo{
+        font-size: 18px;
+        
+    }
+    
+}
