@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:"Atkinson Hyperlegible", sans-serif;
+}
+:root{
+    --cor1:#1E1E1E;
+    --cor2:#000000;
+    --cor3:#FBFFFD;
+    --cor4:#FFFFFF;
+    --cor5:#049368;
+    --cor6:#2241CC;
+    --cor7:#252A36;
+    --cor8:#DAD5D5;
+    --cor9:#10A974;
+    --cor10:#07263E;
+    --cor11:#32A9FF;
+}
+
+
+.atkinson-hyperlegible-regular {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .atkinson-hyperlegible-bold {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .atkinson-hyperlegible-regular-italic {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .atkinson-hyperlegible-bold-italic {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+
+
+li,a,button{
+    font-size: 16px;
+    color:var(--cor3);
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    padding: 20px 15px;
+    background-color: var(--cor10);
+    text-shadow: var(--cor4);
+}
+
+.logotipo{
+    color: var(--cor4);
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: auto ;
+}
+svg{
+    width: 20px;
+    height: 20px;
+}
+
+.menu li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.menu li a:hover{
+    color: var(--cor11);
+}
+
+button{
+    padding:10px 20px;
+    background-color: var(--cor9);
+    color: var(--cor3);
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+button:hover{
+    background-color: var(--cor5);
+}
