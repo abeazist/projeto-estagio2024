@@ -1,8 +1,9 @@
 <?php get_header(); ?>
-        <main>
+        <main background= "fundoindex.jpg">
+            
             <div class="area-container">
             <div class="inicio">
-                <h1>Grupo de Pesquisa em Substâncias Bioativas e Química dos Materiais</h1>
+                <h1 class="titulo">Grupo de Pesquisa em Substâncias Bioativas e Química dos Materiais</h1>
                 <p>O Grupo de Pesquisa em Substâncias Bioativas e 
 Química dos Materiais (GPSBQM) conta com a participação de estudantes e docentes da UTFPR de 
 Campo Mourão, acompanhe em seus projetos em seus estudos.</p>
@@ -14,11 +15,13 @@ Campo Mourão, acompanhe em seus projetos em seus estudos.</p>
             </div>
             <div class="equipe">
                 <h2>Equipe</h2>
+                
 
             </div>
             <div class="fotos">
                 <h2>Fotos</h2>
 
             </div>
+            
         </main>
 <?php get_footer(); ?>

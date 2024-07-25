@@ -18,6 +18,13 @@
     --cor11:#32A9FF;
 }
 
+body{
+    background-image: url('/wp-content/themes/projeto-gpsbqm/imagens/fundoindex.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
 
 .atkinson-hyperlegible-regular {
     font-family: "Atkinson Hyperlegible", sans-serif;
@@ -93,6 +100,17 @@ button{
 
 button:hover{
     background-color: var(--cor5);
+}
+
+.titulo{
+    -webkit-text-stroke-width :2px;
+    -webkit-text-stroke-color: #d45656;
+    font-size: 3em; 
+    color: #8d8b69;
+}
+
+p{
+    color: var(--cor11);
 }
 
 @media (max-width: 800px) {

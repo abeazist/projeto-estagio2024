@@ -5,8 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grupo de Pesquisa UTFPR-CM</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="template.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('/wp-content/themes/projeto-gpsbqm/imagens/fundoindex.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
@@ -22,6 +31,8 @@
                     <li><a href="">Equipe</a></li>
                     <li><a href="">Fotos</a></li>
                 </ul>
+        
             </nav>
             <a href=""><button>Conta</button></a>
+            <p>pipoca</p>
     </header>
