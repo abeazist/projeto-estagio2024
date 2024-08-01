@@ -4,7 +4,7 @@
             <div class="area-container">
             <div class="inicio">
                 <h1 class="titulo">Grupo de Pesquisa em Substâncias Bioativas e Química dos Materiais</h1>
-                <p>O Grupo de Pesquisa em Substâncias Bioativas e 
+                <p class="introducao">O Grupo de Pesquisa em Substâncias Bioativas e 
 Química dos Materiais (GPSBQM) conta com a participação de estudantes e docentes da UTFPR de 
 Campo Mourão, acompanhe em seus projetos em seus estudos.</p>
                 <div class="conhecer">Venha conhecer!</div>

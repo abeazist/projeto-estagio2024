@@ -1,5 +1,4 @@
 *{
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family:"Atkinson Hyperlegible", sans-serif;
@@ -104,13 +103,26 @@ button:hover{
 
 .titulo{
     -webkit-text-stroke-width :2px;
-    -webkit-text-stroke-color: #d45656;
+    -webkit-text-stroke-color: var(--cor3);
     font-size: 3em; 
-    color: #8d8b69;
+    color: var(--cor1);
+    text-align: center;
 }
 
 p{
     color: var(--cor11);
+}
+
+.introducao{
+    width: 20px;
+    height: 70px;
+    color: var(--cor10);
+    text-align: center;
+}
+
+.conhecer{
+    border: solid var(--cor6);
+    
 }
 
 @media (max-width: 800px) {
