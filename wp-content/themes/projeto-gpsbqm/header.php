@@ -10,14 +10,6 @@
     <!-- <link rel="stylesheet" href="template.css"> -->
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            background-image: url('/wp-content/themes/projeto-gpsbqm/imagens/fundoindex.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-        }
-    </style>
 </head>
 <body <?php body_class(); ?>>
     <header>
