@@ -31,9 +31,12 @@
                     <li><a href="">Projetos</a></li>
                     <li><a href="">Equipe</a></li>
                     <li><a href="">Fotos</a></li>
+                    
                 </ul>
+                <p>beatriz</p>
         
             </nav>
             <a href=""><button>Conta</button></a>
             
     </header>
+    

@@ -107,6 +107,9 @@ button:hover{
     font-size: 3em; 
     color: var(--cor1);
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 p{

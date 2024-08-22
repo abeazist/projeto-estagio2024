@@ -8,6 +8,7 @@
 Química dos Materiais (GPSBQM) conta com a participação de estudantes e docentes da UTFPR de 
 Campo Mourão, acompanhe em seus projetos em seus estudos.</p>
                 <div class="conhecer">Venha conhecer!</div>
+                <p>ahhaha</p>
             </div>
             <div class="projetos">
                 <h2>Projetos</h2>
@@ -22,6 +23,5 @@ Campo Mourão, acompanhe em seus projetos em seus estudos.</p>
                 <h2>Fotos</h2>
 
             </div>
-            
         </main>
 <?php get_footer(); ?>
