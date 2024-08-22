@@ -115,7 +115,12 @@ button:hover{
 p{
     color: var(--cor11);
 }
-
+.inicio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 .introducao{
     display: flex;
     justify-content: center;
