@@ -23,6 +23,7 @@
                     <li><a href="">Projetos</a></li>
                     <li><a href="">Equipe</a></li>
                     <li><a href="">Fotos</a></li>
+                    <li><a href="">Conta</a></li>
                     
                 </ul>
                 <p>beatriz</p>

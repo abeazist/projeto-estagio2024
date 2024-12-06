@@ -23,5 +23,6 @@ Campo Mourão, acompanhe em seus projetos em seus estudos.</p>
                 <h2>Fotos</h2>
 
             </div>
+            
         </main>
 <?php get_footer(); ?>

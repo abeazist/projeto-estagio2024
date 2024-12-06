@@ -63,7 +63,7 @@ header{
     justify-content: flex-end;
     align-items:center;
     padding: 20px 15px;
-    background-color: var(--cor10);
+    background-color: var(--cor8);
     text-shadow: var(--cor4);
 }
 
